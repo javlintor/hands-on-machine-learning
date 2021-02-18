@@ -130,3 +130,7 @@ dmypy.json
 
 # pdf files
 *.pdf
+
+# some folders
+images/
+datasets/
