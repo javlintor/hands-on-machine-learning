@@ -3,3 +3,6 @@ my_env/
 
 # data
 data/
+
+# python notebooks
+*.ipynb_checkpoints/
